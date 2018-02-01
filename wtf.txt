@@ -1,0 +1,13 @@
+gu rock 
+ Volume in drive C has no label.
+ Volume Serial Number is 4E7D-0361
+
+ Directory of C:\Users\5835512009\Newtest
+
+02/01/2018  06:06 PM    <DIR>          .
+02/01/2018  06:06 PM    <DIR>          ..
+02/01/2018  06:06 PM               399 dir.txt
+02/01/2018  05:40 PM                11 README.md
+02/01/2018  06:06 PM                10 wtf.txt
+               3 File(s)            420 bytes
+               2 Dir(s)  25,950,150,656 bytes free
